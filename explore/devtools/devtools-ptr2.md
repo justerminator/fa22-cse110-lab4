@@ -1,0 +1,2 @@
+1. The bug was that result was being returned as a string as num1 and num2 were both strings
+2. I fixed it by using Javascript's parseInt function to turn num1 and num2 back into numbers so result can be returned as a number.
